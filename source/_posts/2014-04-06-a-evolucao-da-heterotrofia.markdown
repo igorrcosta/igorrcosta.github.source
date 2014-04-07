@@ -37,4 +37,4 @@ Temas abordados:
 + Parte IV
   + Os genes que sobraram
 
-Esse post vai ser atualizado de acordo com as mudanças da estrutura do texto. Todas as mudanças podem ser acompanhadas no [github](https://github.com/igorrcosta/igorrcosta.github.io/tree/source/).
+Esse post vai ser atualizado de acordo com as mudanças da estrutura do texto. Todas as mudanças podem ser acompanhadas no [github](https://github.com/igorrcosta/igorrcosta.github.source/).
