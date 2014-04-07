@@ -1,0 +1,35 @@
+marcius: cenabio 2 andar e10
+pat: d5ss
+
+
+Publico alvo: Ens. Medio
+Precisão e objetividade
+
+Fazer método de avaliação: questões gerais e especificas
+
+nota: Avaliação do texto pelo prof, Avaliação da avaliação pelo prof, Avaliação do texto pelo pub. alvo
+
+exemplos: scientific america
+
+ver se já existe
+
+Texto:
+5000-6000 caracteres + Graficos, tabelas, fotos, desenhos, infograficos
+Referências e leitura suplementar
+
+Ideias:
+
+Fazer texto com controle de versionamento (nerd tutorial como escrever um texto de divulcação)
+Texto: EEA evolution
+Um comic (o antepassado dos animais) seria interessante...
+
+
+Calendário:
+
+24/4: aula inaugural
+25/4: Instalar static git site generator (o mais simples possível), preparar páginas stub
+26/4: Comprar domínio? Publicar trabalho feito até agora
+27/4: Pesquisar trabalhos de divulgação existentes na área da evolução da heterotrofia, publicar resumo
+28/4: Enviar links para os professores
+
+Disciplina: 4/4 - Entregar prévia com links
