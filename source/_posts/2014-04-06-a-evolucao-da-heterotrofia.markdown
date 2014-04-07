@@ -26,15 +26,22 @@ Publico alvo: Alunos do ensino médio que aprenderam sobre as diversas fontes de
 Temas abordados: 
 
 + Parte I
-  + Classificação dos organismos de acordo com a sua fonte nutricional
-  + [Fontes de carbono e fontes de energia](http://en.wikipedia.org/wiki/File:Troph_flowchart.png)
+  + Classificação dos organismos de acordo com a sua fonte nutricional <sup>[1](http://en.wikipedia.org/wiki/Primary_nutritional_groups)</sup>
+  + [Fontes de carbono e fontes de energia](http://en.wikipedia.org/wiki/File:Troph_flowchart.png) 
 + Parte II
-  + Os primeiros predadores
+  + Os primeiros predadores <sup>[2](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf) [3](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&representation=PDF)</sup>
 + Parte III
-  + Aminoácidos essenciais
+  + Aminoácidos essenciais <sup>[4](http://jn.nutrition.org/content/130/7/1835S.full)</sup>
   + Vias de biossíntese
-  + A grande deleção genômica
+  + A grande deleção genômica <sup>[5](http://www.biomedcentral.com/1471-2164/12/S4/S2)</sup>
 + Parte IV
-  + Os genes que sobraram
+  + Os genes que sobraram (meu paper)
 
 Esse post vai ser atualizado de acordo com as mudanças da estrutura do texto. Todas as mudanças podem ser acompanhadas no [github](https://github.com/igorrcosta/igorrcosta.github.source/).
+
+[1]-http://en.wikipedia.org/wiki/Primary_nutritional_groups   
+[2]-http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf   
+[3]-http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&representation=PDF   
+[4]-http://jn.nutrition.org/content/130/7/1835S.full   
+[5]-http://www.biomedcentral.com/1471-2164/12/S4/S2
+
