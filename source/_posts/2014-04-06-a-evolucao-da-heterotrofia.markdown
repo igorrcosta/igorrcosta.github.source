@@ -3,7 +3,7 @@ layout: post
 title: "Construindo um texto de divulgação: A Evolução da Heterotrofia"
 date: 2014-04-06 17:39:36 -0300
 comments: true
-categories: ciência evolução divulgação
+categories: [ciência, evolução, divulgação]
 ---
 
 Neste post eu vou resumir o processo de criação de um texto de divulgação científica. Este texto faz parte da disciplina ["Divulgando nossas Teses"](http://www.bioqmed.ufrj.br/quimica-biologica/disciplinas/divulgando-nossas-teses), oferecida pelos professores [Marcius Almeida](http://www.bioqmed.ufrj.br/docentes/?u=msalmeida) e [Patricia Alvarenga](http://www.bioqmed.ufrj.br/docentes/?u=pathessab).
