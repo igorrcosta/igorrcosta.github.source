@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Os primeiros predadores"
+title: "Os Primeiros Predadores"
 date: 2014-04-30 13:55:14 -0300
 comments: true
 categories: [ciência, divulgação, evolução, eucariotos]
 ---
 
-
+Bem no começo da história da vida, em uma época em que células ainda não possuíam núcleos, algumas arqueobactérias desenvolveram a capacidade de fagocitar. <!-- more -->[imagem de fagocitose]
 
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf   
 http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&representation=PDF   
